@@ -1,0 +1,15 @@
+/Users/vladimirschmadlak/Documents/Code/University/Semester 5/Parallel and Distributed Systems/Exam/Exam/bin/Debug/net7.0/Exam
+/Users/vladimirschmadlak/Documents/Code/University/Semester 5/Parallel and Distributed Systems/Exam/Exam/bin/Debug/net7.0/Exam.deps.json
+/Users/vladimirschmadlak/Documents/Code/University/Semester 5/Parallel and Distributed Systems/Exam/Exam/bin/Debug/net7.0/Exam.runtimeconfig.json
+/Users/vladimirschmadlak/Documents/Code/University/Semester 5/Parallel and Distributed Systems/Exam/Exam/bin/Debug/net7.0/Exam.dll
+/Users/vladimirschmadlak/Documents/Code/University/Semester 5/Parallel and Distributed Systems/Exam/Exam/bin/Debug/net7.0/Exam.pdb
+/Users/vladimirschmadlak/Documents/Code/University/Semester 5/Parallel and Distributed Systems/Exam/Exam/obj/Debug/net7.0/Exam.csproj.AssemblyReference.cache
+/Users/vladimirschmadlak/Documents/Code/University/Semester 5/Parallel and Distributed Systems/Exam/Exam/obj/Debug/net7.0/Exam.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vladimirschmadlak/Documents/Code/University/Semester 5/Parallel and Distributed Systems/Exam/Exam/obj/Debug/net7.0/Exam.AssemblyInfoInputs.cache
+/Users/vladimirschmadlak/Documents/Code/University/Semester 5/Parallel and Distributed Systems/Exam/Exam/obj/Debug/net7.0/Exam.AssemblyInfo.cs
+/Users/vladimirschmadlak/Documents/Code/University/Semester 5/Parallel and Distributed Systems/Exam/Exam/obj/Debug/net7.0/Exam.csproj.CoreCompileInputs.cache
+/Users/vladimirschmadlak/Documents/Code/University/Semester 5/Parallel and Distributed Systems/Exam/Exam/obj/Debug/net7.0/Exam.dll
+/Users/vladimirschmadlak/Documents/Code/University/Semester 5/Parallel and Distributed Systems/Exam/Exam/obj/Debug/net7.0/refint/Exam.dll
+/Users/vladimirschmadlak/Documents/Code/University/Semester 5/Parallel and Distributed Systems/Exam/Exam/obj/Debug/net7.0/Exam.pdb
+/Users/vladimirschmadlak/Documents/Code/University/Semester 5/Parallel and Distributed Systems/Exam/Exam/obj/Debug/net7.0/Exam.genruntimeconfig.cache
+/Users/vladimirschmadlak/Documents/Code/University/Semester 5/Parallel and Distributed Systems/Exam/Exam/obj/Debug/net7.0/ref/Exam.dll
